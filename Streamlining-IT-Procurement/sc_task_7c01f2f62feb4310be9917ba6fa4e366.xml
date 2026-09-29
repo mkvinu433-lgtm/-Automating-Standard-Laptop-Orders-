@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-29 14:49:16">
+<sc_task action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>approved</approval>
+<approval_history/>
+<approval_set>2026-09-29 14:48:44</approval_set>
+<assigned_to display_value=""/>
+<assignment_group display_value="Hardware" name="Hardware">8a5055c9c61122780043563ef53438e3</assignment_group>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<calendar_stc/>
+<cat_item display_value="Standard Laptop">04b7e94b4f7b4200086eeed18110c7fd</cat_item>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Laptop need to Configured</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>SCTASK0010001</number>
+<opened_at>2026-09-29 14:48:44</opened_at>
+<opened_by display_value="">system</opened_by>
+<order/>
+<parent display_value="RITM0010001">28e0fab62feb4310be9917ba6fa4e3ae</parent>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<request display_value="REQ0010001">6ce0fab62feb4310be9917ba6fa4e3ad</request>
+<request_item display_value="RITM0010001">28e0fab62feb4310be9917ba6fa4e3ae</request_item>
+<route_reason/>
+<sc_catalog display_value=""/>
+<service_offering display_value=""/>
+<short_description>Laptop need to Configured</short_description>
+<sla_due/>
+<state>1</state>
+<sys_class_name>sc_task</sys_class_name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-09-29 14:48:44</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7c01f2f62feb4310be9917ba6fa4e366</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-09-29 14:48:44</sys_updated_on>
+<task_effective_number>SCTASK0010001</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start>2026-09-29 14:48:44</work_start>
+</sc_task>
+</unload>
